@@ -331,6 +331,7 @@ button.white{
 /*******---Banner Section Style---*******/
 
 #banner{
+    
     background: url(../img/banner/b2.jpg) center/cover;
     height: 50vh;
     width: 100%;
