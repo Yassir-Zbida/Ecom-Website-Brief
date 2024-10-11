@@ -341,6 +341,13 @@ button.white{
     align-items: center;
     justify-content: center;
 }
+.about-us{
+    margin: 30px 40px ;
+    padding: 80px;
+}
+.about-list{
+    padding: 20px;
+}
 
 #banner h4{
     color: white;
